@@ -19,6 +19,12 @@
   - [SmartHR でコーポレートエンジニアをやり始めたら楽しすぎてヤバい](https://speakerdeck.com/yamashush/kiitok-meetup)
   - [SmartHR でひとり情シスやめました](https://note.com/yamashush/n/n81baa1252806)
 
+## 🤝 Connect with Me
+
+[GitHub](https://github.com/yamashush)
+/ [Twitter](https://twitter.com/yamashush)
+/ [Wantedly](https://www.wantedly.com/id/yamashu)
+
 <!--
 **yamashush/yamashush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
