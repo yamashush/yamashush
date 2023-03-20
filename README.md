@@ -20,6 +20,12 @@
   - [SmartHR でコーポレートエンジニアをやり始めたら楽しすぎてヤバい](https://speakerdeck.com/yamashush/kiitok-meetup)
   - [SmartHR でひとり情シスやめました](https://note.com/yamashush/n/n81baa1252806)
 
+## ♨️ Favourite Sento
+
+- [吉野湯](https://www.1010.or.jp/map/item/item-cnt-278)
+- [黄金湯](https://www.1010.or.jp/map/item/item-cnt-149)
+- [深川温泉 常盤湯](https://www.1010.or.jp/map/item/item-cnt-173)
+
 ## 🤝 Connect with Me
 
 [GitHub](https://github.com/yamashush)
