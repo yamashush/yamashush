@@ -33,12 +33,10 @@ ref: [What kind of a place is a sento?](https://www.1010.or.jp/english/)
 - 🏠 Home Sento
   - [吉野湯](https://www.1010.or.jp/map/item/item-cnt-278)
 - ✨ Favourite Sento
+  - [旭湯](https://www.1010.or.jp/map/item/item-cnt-276)
   - [黄金湯](https://www.1010.or.jp/map/item/item-cnt-149)
   - [深川温泉 常盤湯](https://www.1010.or.jp/map/item/item-cnt-173)
 
-[吉野湯 from Twitter](https://twitter.com/yamashush/status/1614164165144506368?s=20)
-
-![](https://pbs.twimg.com/media/FmapvpLaAAAd9EV?format=jpg&name=large)
 
 ## 🤝 Connect with Me
 
