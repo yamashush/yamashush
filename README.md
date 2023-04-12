@@ -4,13 +4,6 @@
 ![](https://raw.githubusercontent.com/yamashush/yamashush/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/yamashush/yamashush/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
-
-## 🖥️ My Workspace
-
-[from Twitter](https://twitter.com/yamashush/status/1579652497140224000?s=20)
-
-![](https://pbs.twimg.com/media/FewNVNVaEAAx9yF?format=jpg&name=4096x4096)
-
 ## 📖 Article 
 
 - 2021
