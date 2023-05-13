@@ -26,6 +26,7 @@ ref: [What kind of a place is a sento?](https://www.1010.or.jp/english/)
   - [吉野湯](https://www.1010.or.jp/map/item/item-cnt-278)
 - ✨ Favourite Sento
   - [旭湯](https://www.1010.or.jp/map/item/item-cnt-276)
+  - [千代の湯](http://www.1010.or.jp/map/item/item-cnt-277)
   - [黄金湯](https://www.1010.or.jp/map/item/item-cnt-149)
   - [深川温泉 常盤湯](https://www.1010.or.jp/map/item/item-cnt-173)
 
