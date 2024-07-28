@@ -5,6 +5,8 @@
 
 ## 📖 Article 
 
+- 2024
+  - [3年前に勤怠打刻をSlackで完結できるようにしていました 🐢](https://tech.smarthr.jp/entry/2024/07/26/161505)
 - 2021
   - [僕の考えた最強の SmartHR 全社ヘルプデスクシステム](https://tech.smarthr.jp/entry/2021/07/14/142758)
 - 2020
