@@ -39,7 +39,7 @@ ref: [What kind of a place is a sento?](https://www.1010.or.jp/english/)
 ## 🤝 Connect with Me
 
 [GitHub](https://github.com/yamashush)
-/ [Twitter](https://twitter.com/yamashush)
+/ [X](https://x.com/yamashush)
 / [Wantedly](https://www.wantedly.com/id/yamashu)
 
 <!--
