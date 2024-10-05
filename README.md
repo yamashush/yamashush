@@ -6,6 +6,7 @@
 ## 📖 Article 
 
 - 2024
+  - [6年勤めたSmartHRを退職して、若干怪しい謎のFinTech企業BANKEYに転職します 🏦](https://note.com/yamashush/n/n1432a8b790bc)
   - [3年前に勤怠打刻をSlackで完結できるようにしていました 🐢](https://tech.smarthr.jp/entry/2024/07/26/161505)
   - [3年前に社内ドキュメント用の検索エンジン（社内Google）を作りました 🔍](https://tech.smarthr.jp/entry/2024/07/29/142709)
 - 2021
